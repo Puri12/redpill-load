@@ -48,7 +48,7 @@
       "mac1": "",
       "netif_num": 1,
 
-      "syno_hw_version": "RS3618xs",
+      "syno_hw_version": "VirtualDSM",
       "syno_hdd_powerup_seq": 0,
       "HddHotplug": 0,
       "vender_format_version": 2,
